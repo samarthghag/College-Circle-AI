@@ -1,0 +1,6 @@
+{
+  "name": "College Circle",
+  "description": "An AI-powered study assistant that generates notes, flashcards, and quizzes based on your course plan or queries. It can also find relevant online resources to deepen your understanding.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
